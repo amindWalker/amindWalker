@@ -21,27 +21,27 @@ Right now my study is concentrated at TypeScript, Javascript, React, React Nativ
 - Cooking vegetarian food
 
 ## Techs and Tools: 
-<img align="left" style="margin:5px 5px" style="margin:5px 5px" alt="Ubuntu" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/ubuntu.svg" />
-<img align="left" style="margin:5px 5px" alt="GitHub" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/github-icon.svg" />
-<img align="left" style="margin:5px 5px" alt="VSCode" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/visual-studio-code.svg" />
-<img align="left" style="margin:5px 5px" alt="HTML5" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/html-5.svg" />
-<img align="left" style="margin:5px 5px" alt="CSS3" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/css-3.svg" />
-<img align="left" style="margin:5px 5px" alt="TypeScript" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/typescript-icon.svg" />
-<img align="left" style="margin:5px 5px" alt="Javascript" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/javascript.svg" />
-<img align="left" style="margin:5px 5px" alt="NodeJS" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/nodejs-icon.svg" />
-<img align="left" style="margin:5px 5px" alt="React" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/react.svg" />
-<img align="left" style="margin:5px 5px" alt="Docker" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/docker-icon.svg" />
-<img align="left" style="margin:5px 5px" alt="AWS" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/aws.svg" />
-<img align="left" style="margin:5px 5px" alt="Android" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/android-icon.svg" />
-<img align="left" style="margin:5px 5px" alt="AppStore" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/apple-app-store.svg" />
-<img align="left" style="margin:5px 5px" alt="Expo" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/expo.svg" />
-<img align="left" style="margin:5px 5px" alt="Figma" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/figma.svg" />
-<img align="left" style="margin:5px 5px" alt="SQL" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/sql-file-format-symbol.svg" />
-<img align="left" style="margin:5px 5px" alt="Python" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/python.svg" />
-<img align="left" style="margin:5px 5px" alt="Flask" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/flask.svg" />
-<img align="left" style="margin:5px 5px" alt="Django" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/django.svg" />
-<img align="left" style="margin:5px 5px" alt="C++" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/c-plusplus.svg" />
-<img align="left" style="margin:5px 5px" alt="Unreal" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/Unreal_Engine_4_logo_and_wordmark.svg" />
+<img align="left" alt="Ubuntu" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/ubuntu.svg" />
+<img align="left" alt="GitHub" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/github-icon.svg" />
+<img align="left" alt="VSCode" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/visual-studio-code.svg" />
+<img align="left" alt="HTML5" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/html-5.svg" />
+<img align="left" alt="CSS3" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/css-3.svg" />
+<img align="left" alt="TypeScript" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/typescript-icon.svg" />
+<img align="left" alt="Javascript" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/javascript.svg" />
+<img align="left" alt="NodeJS" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/nodejs-icon.svg" />
+<img align="left" alt="React" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/react.svg" />
+<img align="left" alt="Docker" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/docker-icon.svg" />
+<img align="left" alt="AWS" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/aws.svg" />
+<img align="left" alt="Android" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/android-icon.svg" />
+<img align="left" alt="AppStore" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/apple-app-store.svg" />
+<img align="left" alt="Expo" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/expo.svg" />
+<img align="left" alt="Figma" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/figma.svg" />
+<img align="left" alt="SQL" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/sql-file-format-symbol.svg" />
+<img align="left" alt="Python" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/python.svg" />
+<img align="left" alt="Flask" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/flask.svg" />
+<img align="left" alt="Django" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/django.svg" />
+<img align="left" alt="C++" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/c-plusplus.svg" />
+<img align="left" alt="Unreal" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/Unreal_Engine_4_logo_and_wordmark.svg" />
 
 <br>
 <br>
