@@ -2,9 +2,10 @@
 
 <div align='left'>
 
-I'm Software Engineer and currently my work is on React/React Native + Node.JS, but already worked with Django/Python and Flask.
+I'm Software Engineer and currently my work is with React/React Native + Node.JS, but already worked with Django/Python and Flask.
 <br>
-Currently my study is concentrated at TypeScript, Javascript, React, React Native, Node.JS, Python and some C++ (learning Unreal Engine for personal projects)
+
+Right now my study is concentrated at TypeScript, Javascript, React, React Native, Node.JS, Python and some C++ (learning Unreal Engine for personal projects)
 
 </div>
 
@@ -31,8 +32,7 @@ Currently my study is concentrated at TypeScript, Javascript, React, React Nativ
 <img align="left" alt="NodeJS" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/nodejs-icon.svg" />
 <img align="left" alt="Docker" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/docker-icon.svg" />
 <img align="left" alt="Android" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/android-icon.svg" />
-<img align="left" alt="AppStore" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/
-apple-app-store.svg " />
+<img align="left" alt="AppStore" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/apple-app-store.svg" />
 <img align="left" alt="Expo" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/expo.svg" />
 <img align="left" alt="Figma" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/figma.svg" />
 <img align="left" alt="Firefox" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/firefox.svg" />
