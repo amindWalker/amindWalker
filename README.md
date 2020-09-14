@@ -20,7 +20,7 @@ Right now my study is concentrated at TypeScript, Javascript, React, React Nativ
 - Wing Chun Kung Fu
 - Cooking vegetarian food
 
-# Techs and Tools: 
+## Techs and Tools: 
 <img align="left" alt="Ubuntu" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/ubuntu.svg" />
 <img align="left" alt="Git" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/git-icon.svg" />
 <img align="left" alt="GitHub" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/github-icon.svg" />
@@ -39,25 +39,23 @@ Right now my study is concentrated at TypeScript, Javascript, React, React Nativ
 <img align="left" alt="React" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/react.svg" />
 <img align="left" alt="SQL" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/sql-file-format-symbol.svg" />
 <img align="left" alt="Python" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/python.svg" />
-<img align="left" alt="Flask" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/
-flask.svg " />
+<img align="left" alt="Flask" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/flask.svg" />
 <img align="left" alt="Django" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/django.svg" />
 <img align="left" alt="Heroku" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/graphql.svg" />
 <img align="left" alt="Python" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/postman.svg" />
 <img align="left" alt="C++" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/c-plusplus.svg" />
 <img align="left" alt="Python" height="25" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/Unreal_Engine_4_logo_and_wordmark.svg" />
 
-<!--
-**git-BR/git-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+#
+<div align=center>
+<br>
+<strong>
+Follow me on <br> <a href="https://twitter.com/BrenoRocha_twt"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/twitter.svg"></a>&nbsp;&nbsp; 
+<a href="https://dev.to/brenorocha"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/dev.svg"></a>&nbsp;&nbsp; 
+<a href="https://br.linkedin.com/in/breno-rocha-dev"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/linkedin-square.svg"></a>&nbsp;&nbsp; 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</strong>
+</div>
