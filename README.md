@@ -10,7 +10,7 @@ Currently my study is concentrated at TypeScript, Javascript, React, React Nativ
 
 ##### My outside computer world hobbies:
 - Science (mainly Astronomy/Physics)
-- Gaming (and Gaming Development)
+- Gaming (and Game Development)
 - Learning new languages (German and French)
 - Movies
 - Music
