@@ -48,7 +48,7 @@ Right now my study is concentrated at TypeScript, Javascript, React, React Nativ
 <div align=center>
 <br>
 <strong>
-Follow me on <br> <a href="https://twitter.com/BrenoRocha_twt"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/twitter.svg"></a>&nbsp;&nbsp; 
+Connect with me on <br> <a href="https://twitter.com/BrenoRocha_twt"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/twitter.svg"></a>&nbsp;&nbsp; 
 <a href="https://dev.to/brenorocha"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/dev.svg"></a>&nbsp;&nbsp; 
 <a href="https://br.linkedin.com/in/breno-rocha-dev"><img height="32" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/LinkedIn-Icon-Square.svg"></a>&nbsp;&nbsp; 
 
