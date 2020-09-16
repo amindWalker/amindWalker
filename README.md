@@ -2,20 +2,20 @@
 
 <div align='left'>
 
-I'm Software Engineer and currently my work is with React/React Native + Node.JS, but already worked with Django/Python and Flask.
+I'm Software Engineer and currently my work is with React/React Native + Node.js. Past works was with Django/Python and Flask.
 <br>
 
-Right now my study is concentrated at TypeScript, Javascript, React, React Native, Node.JS, Python and some C++ (learning Unreal Engine for personal projects)
+Right now my study is concentrated deeply with TypeScript, Javascript, React.js, React Native and Node.js. Sometimes Python and C++ (learning Unreal Engine for personal projects)
 
 </div>
 
 ##### My outside computer world hobbies:
-- Science (mainly Astronomy/Physics)
+- Reading (mainly about Science and Astronomy/Physics)
 - Gaming (and Game Development)
 - Learning new languages (German and French)
 - Movies
 - Music
-- Beer and talk about ideias
+- Beer and talk about new ideias to everything
 - Freehand drawing
 - Wing Chun Kung Fu
 - Cooking vegetarian food
