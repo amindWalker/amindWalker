@@ -5,7 +5,7 @@
 I'm Software Engineer and currently my work is with React/React Native + Node.js. Past works was with Django/Python and Flask.
 <br>
 
-Right now my study is concentrated deeply with TypeScript, Javascript, React.js, React Native and Node.js. Sometimes Python and C++ (learning Unreal Engine for personal projects)
+Right now my study is concentrated deeply with TypeScript, Javascript, React.js, React Native and Node.js. Sometimes Python and C++ (Unreal Engine for personal projects)
 
 </div>
 
