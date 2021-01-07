@@ -2,10 +2,10 @@
 
 <div align='left'>
 
-I'm Software Engineer and currently my work is with React and Node.js. Past works with Django/Python and Flask were halted for now.
+I'm Software Engineer and currently working with React and Node.js. Past works with Django/Python and Flask were halted for now.
 <br>
 
-Right now my time is deeply concentrated with TypeScript, Javascript, React.js, React Native and Node.js. I'm still active with Python and C++ (inside Unreal Engine 4) though.
+I'm dedicating my time deeply with Javascript, TypeScript, React.js, React Native and Node.js. I'm still active with Python and C++ (inside Unreal Engine 4), though less activity with these for a while.
 
 </div>
 
@@ -15,7 +15,7 @@ Right now my time is deeply concentrated with TypeScript, Javascript, React.js, 
 - Learning new languages (German and French)
 - Movies
 - Music
-- Beer and talk about new ideias to everything
+- Beer and talk about new ideas to everything
 - Freehand drawing
 - Wing Chun Kung Fu
 - Cooking vegetarian food
