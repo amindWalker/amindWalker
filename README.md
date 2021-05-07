@@ -5,7 +5,7 @@
 I'm Software Engineer and currently working with React and Node.js. Past works with Django/Python and Flask were halted for now.
 <br>
 
-I'm dedicating my time deeply with Javascript, TypeScript, React.js, React Native and Node.js. I'm still active with Python and C++ (inside Unreal Engine 4), though less activity with these for a while.
+I'm dedicating my time deeply to Javascript, TypeScript, React.js, React Native and Node.js. I'm still active with Python and C++ (inside Unreal Engine 4), though less activity with these for a while.
 
 </div>
 
