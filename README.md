@@ -9,8 +9,8 @@ I'm dedicating my time deeply to Javascript, TypeScript, React.js, React Native 
 
 </div>
 
-##### My outside computer world hobbies:
-- Reading (mainly about Science and Astronomy/Physics)
+#### My outside computer world hobbies:
+- Reading mostly about Physics and AI
 - Gaming (and Game Development)
 - Learning new languages (German and French)
 - Movies
