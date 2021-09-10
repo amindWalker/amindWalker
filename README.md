@@ -14,56 +14,35 @@
   
   <ol>
   
-  <img alt="Ubuntu" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/ubuntu.svg" />
-
-  <img alt="GitHub" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/github-icon.svg" />
-
-  <img alt="VSCode" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/visual-studio-code.svg" />
-
-  <img alt="HTML5" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/html-5.svg" />
-
-  <img alt="CSS3" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/css-3.svg" />
-
-  <img alt="TypeScript" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/typescript-icon.svg" />
-
-  <img alt="Javascript" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/javascript.svg" />
-
-  <img alt="NodeJS" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/nodejs-icon.svg" />
-
-  <img alt="React" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/react.svg" />
-
-  <img alt="Docker" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/docker-icon.svg" />
-
-  <img alt="AWS" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/aws.svg" />
-
-  <img alt="Android" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/android-icon.svg" />
+  <img alt="Ubuntu" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/ubuntu.svg" />&nbsp;&nbsp;
+  <img alt="GitHub" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/github-icon.svg" />&nbsp;&nbsp;
+  <img alt="VSCode" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/visual-studio-code.svg" />&nbsp;&nbsp;
+  <img alt="HTML5" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/html-5.svg" />&nbsp;&nbsp;
+  <img alt="CSS3" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/css-3.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/typescript-icon.svg" />&nbsp;&nbsp;
+  <img alt="Javascript" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/javascript.svg" />&nbsp;&nbsp;
+  <img alt="NodeJS" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/nodejs-icon.svg" />&nbsp;&nbsp;
+  <img alt="React" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/react.svg" />&nbsp;&nbsp;
+  <img alt="Docker" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/docker-icon.svg" />&nbsp;&nbsp;
+  <img alt="AWS" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/aws.svg" />&nbsp;&nbsp;
+  <img alt="Android" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/android-icon.svg" />
 
   
   </ol>
 
   <ol>
   
-  <img alt="AppStore" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/apple-app-store.svg" />
-  
-  <img alt="Figma" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/figma.svg" />
-  
-  <img alt="PostgreSQL" style="margin:4px" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/Postgresql_elephant.svg" />
-
-  <img alt="MongoDB" style="margin:4px" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/MongoDB_Logo.svg" />
-
-  <img alt="GraphQL" style="margin:4px" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/graphql.svg" />
-  
-  <img alt="Python" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/python.svg" />
-  
-  <img alt="Flask" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/flask.svg" />
-  
-  <img alt="Django" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/django.svg" />
-  
-  <img alt="C++" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/c-plusplus.svg" />
-
-  <img alt="Rust" style="margin:4px" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/Rust_lang_logo.svg" />
-  
-  <img alt="Unreal" style="margin:4px" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/Unreal_Engine_4_logo_and_wordmark.svg" />
+  <img alt="AppStore" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/apple-app-store.svg" />&nbsp;&nbsp;
+  <img alt="Figma" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/figma.svg" />&nbsp;&nbsp;
+  <img alt="PostgreSQL" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/Postgresql_elephant.svg" />&nbsp;&nbsp;
+  <img alt="MongoDB" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/MongoDB_Logo.svg" />&nbsp;&nbsp;
+  <img alt="GraphQL" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/graphql.svg" />&nbsp;&nbsp;
+  <img alt="Python" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/python.svg" />&nbsp;&nbsp;
+  <img alt="Flask" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/flask.svg" />&nbsp;&nbsp;
+  <img alt="Django" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/django.svg" />&nbsp;&nbsp;
+  <img alt="C++" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/c-plusplus.svg" />&nbsp;&nbsp;
+  <img alt="Rust" height="24" src="https://github.com/git-BR/git-BR/raw/master/icons/Rust_lang_logo.svg" />&nbsp;&nbsp;
+  <img alt="Unreal" height="24" src="https://raw.githubusercontent.com/git-BR/git-BR/master/icons/Unreal_Engine_4_logo_and_wordmark.svg" />
   
   </ol>
 
