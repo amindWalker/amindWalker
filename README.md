@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![profile](https://github.com/git-BR/git-BR/raw/master/icons/profileHeaderSVG.svg)
+![profile](https://github.com/git-BR/git-BR/raw/master/icons/profileHeaderSVG.svg)
 
 </div>
 
@@ -52,9 +52,7 @@
 
 <div align="center">
 
----
-
-<br>
+#
 
 #### OUTSIDE COMPUTERS WORLD ACTIVITIES
 
