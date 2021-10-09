@@ -52,7 +52,7 @@
 
 #
 
-#### OUTSIDE COMPUTERS WORLD ACTIVITIES
+#### OUTSIDE DIGITAL WORLD ACTIVITIES
 
 ![📖 reading - books](https://img.shields.io/badge/📖_reading-books-F09D13)
 ![🕹️ video - game](https://img.shields.io/badge/🕹️_video-game-E60012)
