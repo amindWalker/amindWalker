@@ -35,7 +35,7 @@
 
 [![jest - testing](https://img.shields.io/badge/jest-testing-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/)
 [![cypress - testing](https://img.shields.io/badge/cypress-testing-17202C?style=for-the-badge&logo=cypress)](https://www.cypress.io/)
-[![heroku - SaaS](https://img.shields.io/badge/heroku-SaaS-430098?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![heroku - PaaS](https://img.shields.io/badge/heroku-SaaS-430098?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 
 [![python - lang](https://img.shields.io/badge/python-lang-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![django - framework](https://img.shields.io/badge/django-framework-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
