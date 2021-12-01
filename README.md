@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## TECHS AND TOOLS
+# 🧩 LANGUAGES AND SOFTWARE TOOLCHAIN 🧩
 
 </div>
 
@@ -47,12 +47,14 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <div align="center">
 
-#
 
-#### OUTSIDE DIGITAL WORLD ACTIVITIES
+
+## 🌴🌳 OUTSIDE DIGITAL WORLD ACTIVITIES 🌳🌴
 
 ![📖 reading - books](https://img.shields.io/badge/📖_reading-books-F09D13)
 ![🕹️ video - game](https://img.shields.io/badge/🕹️_video-game-E60012)
