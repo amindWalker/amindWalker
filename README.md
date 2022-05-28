@@ -77,8 +77,8 @@
   
 #### connect with me on
 
-<a href="https://twitter.com/brenorocha_dev"><img border-width="red" height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/twitter.svg" ></a>&nbsp;&nbsp;
-<a href="https://dev.to/brenorocha"><img height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/devto_fill.svg" ></a>&nbsp;&nbsp;
+<a href="https://twitter.com/amindWalker"><img border-width="red" height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/twitter.svg" ></a>&nbsp;&nbsp;
+<a href="https://dev.to/amindWalker"><img height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/devto_fill.svg" ></a>&nbsp;&nbsp;
 <a href="https://br.linkedin.com/in/breno-rocha-dev"><img height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/linkedin_fill.svg"></a>&nbsp;&nbsp;
 
 </div>
