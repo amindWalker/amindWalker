@@ -6,45 +6,48 @@
 
 <div align="center">
 
-## 🧩 LANGUAGES AND SOFTWARE TOOLCHAIN 🧩
+## LANGUAGES AND SOFTWARE TOOLCHAIN
 
 </div>
 
 <div align="center">
   
   <ul>
+    
+  [![LINUX](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=LINUX&logoColor=%23FCC624)](https://www.linux.org/)
+  [![BASH](https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU+BASH&logoColor=%234EAA25)](https://www.gnu.org/software/bash/)
+  [![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT&logoColor=%23F05032)](https://git-scm.com/)
+  [![DOCKER](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=DOCKER&logoColor=%232496ED)](https://www.docker.com/)
+  [![WARP.RS](https://img.shields.io/badge/WARP.RS-black?style=for-the-badge&logo=WAPPALYZER&logoColor=orangered)](https://crates.io/crates/warp)
+  [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AMAZON+AWS&logoColor=%23FF9900)](https://aws.amazon.com/)
+  [![HEROKU](https://img.shields.io/badge/HEROKU-black?style=for-the-badge&logo=HEROKU&logoColor=%239933CC)](https://www.heroku.com/)
+  [![CLOUDFLARE](https://img.shields.io/badge/CLOUDFLARE-black?style=for-the-badge&logo=CLOUDFLARE&logoColor=%23F38020)](https://www.cloudflare.com/)
+
+  [![RUST](https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=Rust&logoColor=orangered)](https://rustlang.org/)
+  [![WASM](https://img.shields.io/badge/WASM-black?style=for-the-badge&logo=WEBASSEMBLY&logoColor=%23654FF0)](https://developer.mozilla.org/en-US/docs/WebAssembly)
+  [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=TypeScript&logoColor=%233178C6)](https://www.typescriptlang.org/)
+  [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=JAVASCRIPT&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
+  [![GRAPHQL](https://img.shields.io/badge/GRAPHQL-black?style=for-the-badge&logo=GRAPHQL&logoColor=%23E10098)](https://rustlang.org/)
+
+  [![NODE](https://img.shields.io/badge/NODE-black?style=for-the-badge&logo=NODE.JS&logoColor=%23339933)](https://nodejs.org/en/)
+  [![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=%2361DAFB)](https://reactjs.org/)
+  [![TAILWIND](https://img.shields.io/badge/TAILWIND-black?style=for-the-badge&logo=TAILWIND+CSS&logoColor=%2306B6D4)](https://tailwindcss.com/)
+  [![FIGMA](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=FIGMA&logoColor=%23F24E1E)](https://www.figma.com/)
+  [![CYPRESS](https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=CYPRESS&logoColor=WHITE)](https://www.cypress.io/)
+  [![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=POSTGRESQL&logoColor=%234169E1)](https://www.postgresql.org/)
+  [![MONGODB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MONGODB&logoColor=%2347A248)](https://cloud.mongodb.com/)
+
+  ### ![IN MY SPARE TIME I'M LEARNING THESE](https://img.shields.io/badge/IN_MY_SPARE_TIME_I'M_LEARNING_THESE-gray?style=for-the-badge)
   
-  [![JAVASCRIPT - lang](https://img.shields.io/static/v1?label=JAVASCRIPT&message=lang&color=%23F7DF1E&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![TYPESCRIPT - lang](https://img.shields.io/static/v1?label=TYPESCRIPT&message=lang&color=%233178C6&logo=typescript)](https://www.typescriptlang.org/)
-  [![RUST - lang](https://img.shields.io/static/v1?label=RUST&message=lang&color=%23000000&logo=rust)](https://www.rust-lang.org/)
-  [![WASM - lang](https://img.shields.io/static/v1?label=WASM&message=lang&color=%23654FF0&logo=webassembly)](https://webassembly.org/)
-  [![GRAPHQL - lang](https://img.shields.io/static/v1?label=GRAPHQL&message=lang&color=%23E10098&logo=graphql)](https://graphql.org/)
-
-  [![LINUX - os](https://img.shields.io/static/v1?label=LINUX&message=os&color=%23FCC624&logo=linux)](https://linuxfoundation.org/)
-  [![BASH - shell](https://img.shields.io/static/v1?label=BASH&message=shell&color=%234EAA25&logo=gnu+bash)](https://www.gnu.org/software/bash/)
-  [![DOCKER - container](https://img.shields.io/static/v1?label=DOCKER&message=container&color=%232496ED&logo=docker)](https://docker.com)
-  [![NODE - runtime](https://img.shields.io/static/v1?label=NODE&message=runtime&color=%23339933&logo=node.js)](https://docker.com)
-  [![AWS - cloud](https://img.shields.io/static/v1?label=AWS&message=cloud&color=%23232F3E&logo=amazon+aws)](https://docker.com)
-
-  [![HTML - markup](https://img.shields.io/static/v1?label=HTML&message=markup&color=%23E34F26&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS - styling](https://img.shields.io/static/v1?label=CSS&message=styling&color=%231572B6&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![REACT - lib](https://img.shields.io/static/v1?label=REACT&message=lib&color=%2361DAFB&logo=react)](https://reactjs.org/)
-  [![FIGMA - design](https://img.shields.io/static/v1?label=FIGMA&message=design&color=%23F24E1E&logo=figma)](https://www.figma.com/)
-  [![KRITA - paint](https://img.shields.io/static/v1?label=KRITA&message=paint&color=%233BABFF&logo=krita)](https://krita.org/en/)
-
-  [![POSTGRESQL - db](https://img.shields.io/static/v1?label=POSTGRESQL&message=db&color=%234169E1&logo=postgresql)](https://www.postgresql.org/)
-  [![MONGODB - db](https://img.shields.io/static/v1?label=MONGODB&message=db&color=%2347A248&logo=mongodb)](https://www.mongodb.com/)
-  [![CLOUDFLARE - cdn](https://img.shields.io/static/v1?label=CLOUDFLARE&message=cdn&color=%23F38020&logo=cloudflare)](https://www.cloudflare.com/)
-  [![HEROKU - paas](https://img.shields.io/static/v1?label=HEROKU&message=paas&color=%23430098&logo=heroku)](https://www.heroku.com/)
-
-  [![JEST - testing](https://img.shields.io/static/v1?label=JEST&message=testing&color=%23C21325&logo=jest)](https://jestjs.io/)
-  [![CYPRESS - testing](https://img.shields.io/static/v1?label=CYPRESS&message=testing&color=%2317202C&logo=cypress)](https://www.cypress.io/)
-  [![PYTHON - lang](https://img.shields.io/static/v1?label=PYTHON&message=lang&color=%233776AB&logo=python)](https://www.python.org/)
-  [![DJANGO - framework](https://img.shields.io/static/v1?label=DJANGO&message=framework&color=%23092E20&logo=django)](https://www.djangoproject.com/)
-
-  [![UNREAL - engine](https://img.shields.io/static/v1?label=UNREAL&message=engine&color=%230E1128&logo=unreal+engine)](https://www.unrealengine.com/en-US/)
-  [![BLENDER - 3D](https://img.shields.io/static/v1?label=BLENDER&message=3D&color=%23F5792A&logo=blender)](https://www.blender.org/)
-  [![THREE - lib](https://img.shields.io/static/v1?label=THREE&message=lib&color=%23000000&logo=three.js)](https://threejs.org/)
+  
+  [![BEVY](https://img.shields.io/badge/BEVY-black?style=for-the-badge&logo=FAMPAY&logoColor=gray)](https://bevyengine.org/)
+  [![VULKAN](https://img.shields.io/badge/VULKAN-black?style=for-the-badge&logo=VULKAN&logoColor=%23AC162C)](https://www.vulkan.org/)
+  [![BLENDER](https://img.shields.io/badge/BLENDER-black?style=for-the-badge&logo=BLENDER&logoColor=%23F5792A)](https://www.blender.org/)
+  [![TREE.JS](https://img.shields.io/badge/TREE.JS-black?style=for-the-badge&logo=THREE.JS&logoColor=WHITE)](https://threejs.org/)
+  [![KRITA](https://img.shields.io/badge/KRITA-black?style=for-the-badge&logo=KRITA&logoColor=%233BABFF)](https://krita.org/en/)
+  [![UNREAL](https://img.shields.io/badge/UNREAL-black?style=for-the-badge&logo=UNREAL+ENGINE&logoColor=WHITE)](https://www.unrealengine.com/)
     
   </ul>
 
@@ -58,18 +61,18 @@
 
 
 
-### 🌴🌳 OUTSIDE DIGITAL WORLD ACTIVITIES 🌳🌴
+### ![OUTSIDE DIGITAL WORLD ACTIVITIES](https://img.shields.io/badge/OUTSIDE_DIGITAL_WORLD_ACTIVITIES-forestgreen?style=for-the-badge)
 
-![📖 reading - books](https://img.shields.io/badge/📖_reading-books-F09D13)
-![🕹️ video - game](https://img.shields.io/badge/🕹️_video-game-E60012)
-![🗣️ learning  - german+french](https://img.shields.io/badge/🗣️_learning_-german%2Bfrench-458CF5)
-![📽️ watch - movies](https://img.shields.io/badge/📽️_watch-movies-3955A3)
-![🎸 listen - music](https://img.shields.io/badge/🎸_listen-music-DC382D)
+![BOOKS](https://img.shields.io/badge/BOOKS-black?style=for-the-badge&logo=bookstack&logoColor=gray)
+![GAMES](https://img.shields.io/badge/GAMES-black?style=for-the-badge&logo=Nintendo+Switch&logoColor=%23FF0000)
+![NEW LANGUAGES](https://img.shields.io/badge/NEW_LANGUAGES-black?style=for-the-badge&logo=MICROSOFT+TRANSLATOR&logoColor=white)
+![MOVIES](https://img.shields.io/badge/MOVIES-black?style=for-the-badge&logo=IMDB&logoColor=%23F5C518)
+![MUSIC](https://img.shields.io/badge/MUSIC-black?style=for-the-badge&logo=SPOTIFY&logoColor=%231DB954)
 
-![🍻 beer - talk](https://img.shields.io/badge/🍻_beer-talk-FFD900)
-![🖌️ freehand - drawing](https://img.shields.io/badge/🖌️_freehand-drawing-F37626)
-![🥷 practice - kung fu](https://img.shields.io/badge/🥷_practice-kung_fu-000000)
-![🔪 vegetarian - cooking](https://img.shields.io/badge/🔪_vegetarian-cooking-88CE02)
+![BEER](https://img.shields.io/badge/BEER-black?style=for-the-badge&logo=HOMEBREW&logoColor=YELLOW)
+![DRAWING](https://img.shields.io/badge/DRAWING-black?style=for-the-badge&logo=LIVEJOURNAL&logoColor=%2300B0EA)
+![SHARE IDEAS](https://img.shields.io/badge/SHARE_IDEAS-black?style=for-the-badge&logo=JABBER&logoColor=yellow)
+![COOK](https://img.shields.io/badge/COOK-black?style=for-the-badge&logo=JUST+EAT&logoColor=green)
 
   </details>
   
