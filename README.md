@@ -12,8 +12,6 @@
 
 <div align="center">
   
-  <ul>
-    
   [![LINUX](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=LINUX&logoColor=%23FCC624)](https://www.linux.org/)
   [![BASH](https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU+BASH&logoColor=%234EAA25)](https://www.gnu.org/software/bash/)
   [![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT&logoColor=%23F05032)](https://git-scm.com/)
@@ -49,8 +47,6 @@
   [![KRITA](https://img.shields.io/badge/KRITA-black?style=for-the-badge&logo=KRITA&logoColor=%233BABFF)](https://krita.org/en/)
   [![UNREAL](https://img.shields.io/badge/UNREAL-black?style=for-the-badge&logo=UNREAL+ENGINE&logoColor=WHITE)](https://www.unrealengine.com/)
     
-  </ul>
-
 </div>
 
 <br>
@@ -59,29 +55,25 @@
 
 <div align="center">
 
+  ### ![OUTSIDE DIGITAL WORLD ACTIVITIES](https://img.shields.io/badge/OUTSIDE_DIGITAL_WORLD_ACTIVITIES-forestgreen?style=for-the-badge)
 
+  ![BOOKS](https://img.shields.io/badge/BOOKS-black?style=for-the-badge&logo=bookstack&logoColor=gray)
+  ![GAMES](https://img.shields.io/badge/GAMES-black?style=for-the-badge&logo=Nintendo+Switch&logoColor=%23FF0000)
+  ![NEW LANGUAGES](https://img.shields.io/badge/NEW_LANGUAGES-black?style=for-the-badge&logo=MICROSOFT+TRANSLATOR&logoColor=white)
+  ![MOVIES](https://img.shields.io/badge/MOVIES-black?style=for-the-badge&logo=IMDB&logoColor=%23F5C518)
+  ![MUSIC](https://img.shields.io/badge/MUSIC-black?style=for-the-badge&logo=SPOTIFY&logoColor=%231DB954)
 
-### ![OUTSIDE DIGITAL WORLD ACTIVITIES](https://img.shields.io/badge/OUTSIDE_DIGITAL_WORLD_ACTIVITIES-forestgreen?style=for-the-badge)
+  ![BEER](https://img.shields.io/badge/BEER-black?style=for-the-badge&logo=HOMEBREW&logoColor=YELLOW)
+  ![DRAWING](https://img.shields.io/badge/DRAWING-black?style=for-the-badge&logo=LIVEJOURNAL&logoColor=%2300B0EA)
+  ![SHARE IDEAS](https://img.shields.io/badge/SHARE_IDEAS-black?style=for-the-badge&logo=JABBER&logoColor=yellow)
+  ![COOK](https://img.shields.io/badge/COOK-black?style=for-the-badge&logo=JUST+EAT&logoColor=green)
 
-![BOOKS](https://img.shields.io/badge/BOOKS-black?style=for-the-badge&logo=bookstack&logoColor=gray)
-![GAMES](https://img.shields.io/badge/GAMES-black?style=for-the-badge&logo=Nintendo+Switch&logoColor=%23FF0000)
-![NEW LANGUAGES](https://img.shields.io/badge/NEW_LANGUAGES-black?style=for-the-badge&logo=MICROSOFT+TRANSLATOR&logoColor=white)
-![MOVIES](https://img.shields.io/badge/MOVIES-black?style=for-the-badge&logo=IMDB&logoColor=%23F5C518)
-![MUSIC](https://img.shields.io/badge/MUSIC-black?style=for-the-badge&logo=SPOTIFY&logoColor=%231DB954)
-
-![BEER](https://img.shields.io/badge/BEER-black?style=for-the-badge&logo=HOMEBREW&logoColor=YELLOW)
-![DRAWING](https://img.shields.io/badge/DRAWING-black?style=for-the-badge&logo=LIVEJOURNAL&logoColor=%2300B0EA)
-![SHARE IDEAS](https://img.shields.io/badge/SHARE_IDEAS-black?style=for-the-badge&logo=JABBER&logoColor=yellow)
-![COOK](https://img.shields.io/badge/COOK-black?style=for-the-badge&logo=JUST+EAT&logoColor=green)
-
-  </details>
-  
   <br>
   
-#### connect with me on
+  #### CONNECT WITH ME
 
-<a href="https://twitter.com/amindWalker"><img border-width="red" height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/twitter.svg" ></a>&nbsp;&nbsp;
-<a href="https://dev.to/amindWalker"><img height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/devto_fill.svg" ></a>&nbsp;&nbsp;
-<a href="https://br.linkedin.com/in/breno-rocha-dev"><img height="32" src="https://github.com/git-BR/git-BR/raw/master/icons/linkedin_fill.svg"></a>&nbsp;&nbsp;
+  [![TWITTER](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amindWalker)
+  [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/amindWalker)
+  [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/breno-rocha-dev)
 
 </div>
