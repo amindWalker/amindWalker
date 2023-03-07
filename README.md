@@ -77,3 +77,10 @@
   [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/breno-rocha-dev)
 
 </div>
+
+<div align="center">
+
+  #### SUPPORT MY WORK
+  [![BUY ME A COFFEE](https://img.shields.io/static/v1?label=&message=BUY+ME+A+COFFEE&color=%23FFDD00&style=for-the-badge&logo=buy+me+a+coffee&logoColor=%23000)](https://www.buymeacoffee.com/brenorochadev)
+
+</div>
