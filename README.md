@@ -12,11 +12,11 @@
 
 <div align="center">
   
+  [![OSS](https://img.shields.io/badge/OSS-black?style=for-the-badge&logo=Open+Source+Initiative)](https://opensource.org/)
   [![LINUX](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=LINUX&logoColor=%23FCC624)](https://www.linux.org/)
   [![BASH](https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU+BASH&logoColor=%234EAA25)](https://www.gnu.org/software/bash/)
   [![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT&logoColor=%23F05032)](https://git-scm.com/)
   [![DOCKER](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=DOCKER&logoColor=%232496ED)](https://www.docker.com/)
-  [![OSS](https://img.shields.io/badge/OSS-black?style=for-the-badge&logo=Open+Source+Initiative)](https://opensource.org/)
   [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AMAZON+AWS&logoColor=%23FF9900)](https://aws.amazon.com/)
   [![CLOUDFLARE](https://img.shields.io/badge/CLOUDFLARE-black?style=for-the-badge&logo=CLOUDFLARE&logoColor=%23F38020)](https://www.cloudflare.com/)
   [![OPENAPI](https://img.shields.io/badge/OPENAPI-000?style=for-the-badge&logo=OpenAPI+Initiative&logoColor=%236BA539)](https://)
