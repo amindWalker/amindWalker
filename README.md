@@ -19,7 +19,7 @@
   [![DOCKER](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=DOCKER&logoColor=%232496ED)](https://www.docker.com/)
   [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AMAZON+AWS&logoColor=%23FF9900)](https://aws.amazon.com/)
   [![CLOUDFLARE](https://img.shields.io/badge/CLOUDFLARE-black?style=for-the-badge&logo=CLOUDFLARE&logoColor=%23F38020)](https://www.cloudflare.com/)
-  [![OPENAPI](https://img.shields.io/badge/OPENAPI-000?style=for-the-badge&logo=OpenAPI+Initiative&logoColor=%236BA539)](https://)
+  [![OPENAPI](https://img.shields.io/badge/OPENAPI-000?style=for-the-badge&logo=OpenAPI+Initiative&logoColor=%236BA539)](https://www.openapis.org/)
 
   [![RUST](https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=Rust&logoColor=orangered)](https://rustlang.org/)
   [![WASM](https://img.shields.io/badge/WASM-black?style=for-the-badge&logo=WEBASSEMBLY&logoColor=%23654FF0)](https://developer.mozilla.org/en-US/docs/WebAssembly)
