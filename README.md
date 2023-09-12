@@ -50,7 +50,7 @@
 
   #### FOLLOW ME
   [![TWITTER](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amindWalker)
-  [![MEDIUM](https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=%23ffffff)](https://medium.com/)
+  [![MEDIUM](https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=%23ffffff)](https://medium.com/@amindWalker)
   [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/amindWalker)
   [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/breno-rocha-dev)
 
