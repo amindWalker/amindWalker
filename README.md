@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## LANGUAGES AND SOFTWARE TOOLCHAIN
+## MY TOOLCHAIN
 
 </div>
 
@@ -20,7 +20,6 @@
   [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AMAZON+AWS&logoColor=%23FF9900)](https://aws.amazon.com/)
   [![CLOUDFLARE](https://img.shields.io/badge/CLOUDFLARE-black?style=for-the-badge&logo=CLOUDFLARE&logoColor=%23F38020)](https://www.cloudflare.com/)
   [![OPENAPI](https://img.shields.io/badge/OPENAPI-000?style=for-the-badge&logo=OpenAPI+Initiative&logoColor=%236BA539)](https://www.openapis.org/)
-
   [![RUST](https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=Rust&logoColor=orangered)](https://rustlang.org/)
   [![WASM](https://img.shields.io/badge/WASM-black?style=for-the-badge&logo=WEBASSEMBLY&logoColor=%23654FF0)](https://developer.mozilla.org/en-US/docs/WebAssembly)
   [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -28,18 +27,16 @@
   [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=TypeScript&logoColor=%233178C6)](https://www.typescriptlang.org/)
   [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=JAVASCRIPT&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
   [![GRAPHQL](https://img.shields.io/badge/GRAPHQL-black?style=for-the-badge&logo=GRAPHQL&logoColor=%23E10098)](https://rustlang.org/)
-
   [![NODE](https://img.shields.io/badge/NODE-black?style=for-the-badge&logo=NODE.JS&logoColor=%23339933)](https://nodejs.org/en/)
   [![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=%2361DAFB)](https://reactjs.org/)
   [![TAILWIND](https://img.shields.io/badge/TAILWIND-black?style=for-the-badge&logo=TAILWIND+CSS&logoColor=%2306B6D4)](https://tailwindcss.com/)
   [![FIGMA](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=FIGMA&logoColor=%23F24E1E)](https://www.figma.com/)
   [![CYPRESS](https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=CYPRESS&logoColor=WHITE)](https://www.cypress.io/)
+  [![PLAYWRIGHT](https://img.shields.io/badge/PLAYWRIGHT-black?style=for-the-badge&logo=playwright&logoColor=%232EAD33)](https://playwright.dev/)
   [![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=POSTGRESQL&logoColor=%234169E1)](https://www.postgresql.org/)
   [![MONGODB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MONGODB&logoColor=%2347A248)](https://cloud.mongodb.com/)
 
   ### ![IN MY SPARE TIME I'M LEARNING THESE](https://img.shields.io/badge/IN_MY_SPARE_TIME_I'M_LEARNING_THESE-gray?style=for-the-badge)
-  
-  
   [![BEVY](https://img.shields.io/badge/BEVY-black?style=for-the-badge&logo=FAMPAY&logoColor=gray)](https://bevyengine.org/)
   [![VULKAN](https://img.shields.io/badge/VULKAN-black?style=for-the-badge&logo=VULKAN&logoColor=%23AC162C)](https://www.vulkan.org/)
   [![BLENDER](https://img.shields.io/badge/BLENDER-black?style=for-the-badge&logo=BLENDER&logoColor=%23F5792A)](https://www.blender.org/)
@@ -49,30 +46,11 @@
     
 </div>
 
-<br>
-<br>
-<br>
-
 <div align="center">
 
-  ### ![OUTSIDE DIGITAL WORLD ACTIVITIES](https://img.shields.io/badge/OUTSIDE_DIGITAL_WORLD_ACTIVITIES-forestgreen?style=for-the-badge)
-
-  ![BOOKS](https://img.shields.io/badge/BOOKS-black?style=for-the-badge&logo=bookstack&logoColor=gray)
-  ![GAMES](https://img.shields.io/badge/GAMES-black?style=for-the-badge&logo=Nintendo+Switch&logoColor=%23FF0000)
-  ![NEW LANGUAGES](https://img.shields.io/badge/NEW_LANGUAGES-black?style=for-the-badge&logo=MICROSOFT+TRANSLATOR&logoColor=white)
-  ![MOVIES](https://img.shields.io/badge/MOVIES-black?style=for-the-badge&logo=IMDB&logoColor=%23F5C518)
-  ![MUSIC](https://img.shields.io/badge/MUSIC-black?style=for-the-badge&logo=SPOTIFY&logoColor=%231DB954)
-
-  ![BEER](https://img.shields.io/badge/BEER-black?style=for-the-badge&logo=HOMEBREW&logoColor=YELLOW)
-  ![DRAWING](https://img.shields.io/badge/DRAWING-black?style=for-the-badge&logo=LIVEJOURNAL&logoColor=%2300B0EA)
-  ![SHARE IDEAS](https://img.shields.io/badge/SHARE_IDEAS-black?style=for-the-badge&logo=JABBER&logoColor=yellow)
-  ![COOK](https://img.shields.io/badge/COOK-black?style=for-the-badge&logo=JUST+EAT&logoColor=green)
-
-  <br>
-  
-  #### CONNECT WITH ME
-
+  #### FOLLOW ME
   [![TWITTER](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amindWalker)
+  [![MEDIUM](https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=%23ffffff)](https://medium.com/)
   [![DEV.to](https://img.shields.io/badge/DEV.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/amindWalker)
   [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/breno-rocha-dev)
 
